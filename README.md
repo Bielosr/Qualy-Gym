@@ -1,1 +1,1 @@
-# Qualy-Gym
+# Quali-Gym
